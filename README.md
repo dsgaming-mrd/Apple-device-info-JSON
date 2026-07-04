@@ -39,7 +39,3 @@ https://raw.githubusercontent.com/dsgaming-mrd/Apple-device-info-JSON/refs/heads
 - Reverse engineering
 - Mobile applications
 - Server-side device identification
-
-## License
-
-MIT License
